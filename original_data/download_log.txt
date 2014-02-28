@@ -1,0 +1,758 @@
+--2014-02-28 13:32:19--  http://guide.dhcuration.org/
+Resolving guide.dhcuration.org... 128.8.164.80
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17457 (17K) [text/html]
+Saving to: ‘guide.dhcuration.org/index.html’
+
+100%[======================================>] 17,457      --.-K/s   in 0.005s  
+
+2014-02-28 13:32:20 (3.23 MB/s) - ‘guide.dhcuration.org/index.html’ saved [17457/17457]
+
+Loading robots.txt; please ignore errors.
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/robots.txt
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 198 [text/plain]
+Saving to: ‘guide.dhcuration.org/robots.txt’
+
+100%[======================================>] 198         --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (18.9 MB/s) - ‘guide.dhcuration.org/robots.txt’ saved [198/198]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/includes/style.css
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 45847 (45K) [text/css]
+Saving to: ‘guide.dhcuration.org/includes/style.css’
+
+100%[======================================>] 45,847      --.-K/s   in 0.006s  
+
+2014-02-28 13:32:20 (6.96 MB/s) - ‘guide.dhcuration.org/includes/style.css’ saved [45847/45847]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/includes/print.css
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5362 (5.2K) [text/css]
+Saving to: ‘guide.dhcuration.org/includes/print.css’
+
+100%[======================================>] 5,362       --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (12.6 MB/s) - ‘guide.dhcuration.org/includes/print.css’ saved [5362/5362]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/dhc-favicon.png
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2962 (2.9K) [image/png]
+Saving to: ‘guide.dhcuration.org/images/dhc-favicon.png’
+
+100%[======================================>] 2,962       --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (7.78 MB/s) - ‘guide.dhcuration.org/images/dhc-favicon.png’ saved [2962/2962]
+
+File ‘guide.dhcuration.org/index.html’ already there; not retrieving.
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/contents/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31004 (30K) [text/html]
+Saving to: ‘guide.dhcuration.org/contents/index.html’
+
+100%[======================================>] 31,004      --.-K/s   in 0.003s  
+
+2014-02-28 13:32:20 (10.5 MB/s) - ‘guide.dhcuration.org/contents/index.html’ saved [31004/31004]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/intro/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/intro/index.html’
+
+    [ <=>                                   ] 124,804     --.-K/s   in 0.01s   
+
+2014-02-28 13:32:20 (11.4 MB/s) - ‘guide.dhcuration.org/intro/index.html’ saved [124804]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/representation/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/representation/index.html’
+
+    [ <=>                                   ] 388,271     --.-K/s   in 0.02s   
+
+2014-02-28 13:32:20 (15.4 MB/s) - ‘guide.dhcuration.org/representation/index.html’ saved [388271]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/research-practices/classics/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 674486 (659K) [text/html]
+Saving to: ‘guide.dhcuration.org/research-practices/classics/index.html’
+
+100%[======================================>] 674,486     --.-K/s   in 0.03s   
+
+2014-02-28 13:32:20 (19.2 MB/s) - ‘guide.dhcuration.org/research-practices/classics/index.html’ saved [674486/674486]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/collections/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/collections/index.html’
+
+    [ <=>                                   ] 188,076     --.-K/s   in 0.007s  
+
+2014-02-28 13:32:20 (24.4 MB/s) - ‘guide.dhcuration.org/collections/index.html’ saved [188076]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/collections/standards/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/collections/standards/index.html’
+
+    [ <=>                                   ] 60,542      --.-K/s   in 0.003s  
+
+2014-02-28 13:32:20 (20.3 MB/s) - ‘guide.dhcuration.org/collections/standards/index.html’ saved [60542]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/legal/policy/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/legal/policy/index.html’
+
+    [ <=>                                   ] 238,039     --.-K/s   in 0.01s   
+
+2014-02-28 13:32:20 (18.2 MB/s) - ‘guide.dhcuration.org/legal/policy/index.html’ saved [238039]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/metadata/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 34340 (34K) [text/html]
+Saving to: ‘guide.dhcuration.org/metadata/index.html’
+
+100%[======================================>] 34,340      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (16.3 MB/s) - ‘guide.dhcuration.org/metadata/index.html’ saved [34340/34340]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/preservation/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 33913 (33K) [text/html]
+Saving to: ‘guide.dhcuration.org/preservation/index.html’
+
+100%[======================================>] 33,913      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (15.8 MB/s) - ‘guide.dhcuration.org/preservation/index.html’ saved [33913/33913]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/about/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29352 (29K) [text/html]
+Saving to: ‘guide.dhcuration.org/about/index.html’
+
+100%[======================================>] 29,352      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (15.1 MB/s) - ‘guide.dhcuration.org/about/index.html’ saved [29352/29352]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/faq/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20213 (20K) [text/html]
+Saving to: ‘guide.dhcuration.org/faq/index.html’
+
+100%[======================================>] 20,213      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (20.3 MB/s) - ‘guide.dhcuration.org/faq/index.html’ saved [20213/20213]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/editors/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 28205 (28K) [text/html]
+Saving to: ‘guide.dhcuration.org/editors/index.html’
+
+100%[======================================>] 28,205      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (15.2 MB/s) - ‘guide.dhcuration.org/editors/index.html’ saved [28205/28205]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/glossary.html
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 39250 (38K) [text/html]
+Saving to: ‘guide.dhcuration.org/glossary.html’
+
+100%[======================================>] 39,250      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (16.2 MB/s) - ‘guide.dhcuration.org/glossary.html’ saved [39250/39250]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/repositories/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10971 (11K) [text/html]
+Saving to: ‘guide.dhcuration.org/repositories/index.html’
+
+100%[======================================>] 10,971      --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (26.2 MB/s) - ‘guide.dhcuration.org/repositories/index.html’ saved [10971/10971]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/repositories/fedora/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11112 (11K) [text/html]
+Saving to: ‘guide.dhcuration.org/repositories/fedora/index.html’
+
+100%[======================================>] 11,112      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (19.4 MB/s) - ‘guide.dhcuration.org/repositories/fedora/index.html’ saved [11112/11112]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/storage/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10971 (11K) [text/html]
+Saving to: ‘guide.dhcuration.org/storage/index.html’
+
+100%[======================================>] 10,971      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (18.2 MB/s) - ‘guide.dhcuration.org/storage/index.html’ saved [10971/10971]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/research-practices/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12354 (12K) [text/html]
+Saving to: ‘guide.dhcuration.org/research-practices/index.html’
+
+100%[======================================>] 12,354      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (16.7 MB/s) - ‘guide.dhcuration.org/research-practices/index.html’ saved [12354/12354]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/research-practices/history/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11112 (11K) [text/html]
+Saving to: ‘guide.dhcuration.org/research-practices/history/index.html’
+
+100%[======================================>] 11,112      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (5.27 MB/s) - ‘guide.dhcuration.org/research-practices/history/index.html’ saved [11112/11112]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/planning/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10971 (11K) [text/html]
+Saving to: ‘guide.dhcuration.org/planning/index.html’
+
+100%[======================================>] 10,971      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (20.9 MB/s) - ‘guide.dhcuration.org/planning/index.html’ saved [10971/10971]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/data-rep.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31106 (30K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/data-rep.jpg’
+
+100%[======================================>] 31,106      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (16.3 MB/s) - ‘guide.dhcuration.org/images/grid/data-rep.jpg’ saved [31106/31106]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/classics.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30961 (30K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/classics.jpg’
+
+100%[======================================>] 30,961      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (15.0 MB/s) - ‘guide.dhcuration.org/images/grid/classics.jpg’ saved [30961/30961]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/imls-logo.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1291 (1.3K) [image/gif]
+Saving to: ‘guide.dhcuration.org/images/imls-logo.gif’
+
+100%[======================================>] 1,291       --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (4.20 MB/s) - ‘guide.dhcuration.org/images/imls-logo.gif’ saved [1291/1291]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/cirss-logo-sm.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2602 (2.5K) [image/gif]
+Saving to: ‘guide.dhcuration.org/images/cirss-logo-sm.gif’
+
+100%[======================================>] 2,602       --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (11.7 MB/s) - ‘guide.dhcuration.org/images/cirss-logo-sm.gif’ saved [2602/2602]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/gslis36.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1810 (1.8K) [image/gif]
+Saving to: ‘guide.dhcuration.org/images/gslis36.gif’
+
+100%[======================================>] 1,810       --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (4.15 MB/s) - ‘guide.dhcuration.org/images/gslis36.gif’ saved [1810/1810]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/black26.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 522 [image/gif]
+Saving to: ‘guide.dhcuration.org/images/black26.gif’
+
+100%[======================================>] 522         --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (55.3 MB/s) - ‘guide.dhcuration.org/images/black26.gif’ saved [522/522]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/privacy/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15095 (15K) [text/html]
+Saving to: ‘guide.dhcuration.org/privacy/index.html’
+
+100%[======================================>] 15,095      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (16.0 MB/s) - ‘guide.dhcuration.org/privacy/index.html’ saved [15095/15095]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/sitemap.html
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16900 (17K) [text/html]
+Saving to: ‘guide.dhcuration.org/sitemap.html’
+
+100%[======================================>] 16,900      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (17.6 MB/s) - ‘guide.dhcuration.org/sitemap.html’ saved [16900/16900]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/bg-grad-teal.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62159 (61K) [image/gif]
+Saving to: ‘guide.dhcuration.org/images/bg-grad-teal.gif’
+
+100%[======================================>] 62,159      --.-K/s   in 0.003s  
+
+2014-02-28 13:32:20 (20.8 MB/s) - ‘guide.dhcuration.org/images/bg-grad-teal.gif’ saved [62159/62159]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/external-link.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1200 (1.2K) [image/gif]
+Saving to: ‘guide.dhcuration.org/images/external-link.gif’
+
+100%[======================================>] 1,200       --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (3.83 MB/s) - ‘guide.dhcuration.org/images/external-link.gif’ saved [1200/1200]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/glossary.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1642 (1.6K) [image/gif]
+Saving to: ‘guide.dhcuration.org/images/glossary.gif’
+
+100%[======================================>] 1,642       --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (13.2 MB/s) - ‘guide.dhcuration.org/images/glossary.gif’ saved [1642/1642]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/about.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21732 (21K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/about.jpg’
+
+100%[======================================>] 21,732      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (15.8 MB/s) - ‘guide.dhcuration.org/images/grid/about.jpg’ saved [21732/21732]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/editors.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22572 (22K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/editors.jpg’
+
+100%[======================================>] 22,572      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (17.7 MB/s) - ‘guide.dhcuration.org/images/grid/editors.jpg’ saved [22572/22572]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/faq.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26298 (26K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/faq.jpg’
+
+100%[======================================>] 26,298      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:20 (15.1 MB/s) - ‘guide.dhcuration.org/images/grid/faq.jpg’ saved [26298/26298]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/glossary.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 23373 (23K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/glossary.jpg’
+
+100%[======================================>] 23,373      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:20 (22.1 MB/s) - ‘guide.dhcuration.org/images/grid/glossary.jpg’ saved [23373/23373]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/intro.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 45733 (45K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/intro.jpg’
+
+100%[======================================>] 45,733      --.-K/s   in 0.004s  
+
+2014-02-28 13:32:20 (11.6 MB/s) - ‘guide.dhcuration.org/images/grid/intro.jpg’ saved [45733/45733]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/policy.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 34128 (33K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/policy.jpg’
+
+100%[======================================>] 34,128      --.-K/s   in 0.01s   
+
+2014-02-28 13:32:20 (3.26 MB/s) - ‘guide.dhcuration.org/images/grid/policy.jpg’ saved [34128/34128]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/collections.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26575 (26K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/collections.jpg’
+
+100%[======================================>] 26,575      --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (157 MB/s) - ‘guide.dhcuration.org/images/grid/collections.jpg’ saved [26575/26575]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/images/grid/standards.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26120 (26K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/standards.jpg’
+
+100%[======================================>] 26,120      --.-K/s   in 0s      
+
+2014-02-28 13:32:20 (168 MB/s) - ‘guide.dhcuration.org/images/grid/standards.jpg’ saved [26120/26120]
+
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/intro
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://guide.dhcuration.org/intro/ [following]
+--2014-02-28 13:32:20--  http://guide.dhcuration.org/intro/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/intro.1.html’
+
+    [ <=>                                   ] 124,804     --.-K/s   in 0.005s  
+
+2014-02-28 13:32:21 (23.5 MB/s) - ‘guide.dhcuration.org/intro.1.html’ saved [124804]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/metadata-stub.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31036 (30K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/metadata-stub.jpg’
+
+100%[======================================>] 31,036      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (17.2 MB/s) - ‘guide.dhcuration.org/images/grid/metadata-stub.jpg’ saved [31036/31036]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/preservation-stub.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31059 (30K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/preservation-stub.jpg’
+
+100%[======================================>] 31,059      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (15.5 MB/s) - ‘guide.dhcuration.org/images/grid/preservation-stub.jpg’ saved [31059/31059]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/research.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 34670 (34K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/research.jpg’
+
+100%[======================================>] 34,670      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (16.2 MB/s) - ‘guide.dhcuration.org/images/grid/research.jpg’ saved [34670/34670]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/history-coming-soon.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29738 (29K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/history-coming-soon.jpg’
+
+100%[======================================>] 29,738      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (16.0 MB/s) - ‘guide.dhcuration.org/images/grid/history-coming-soon.jpg’ saved [29738/29738]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/planning-coming-soon.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 28127 (27K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/planning-coming-soon.jpg’
+
+100%[======================================>] 28,127      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (15.7 MB/s) - ‘guide.dhcuration.org/images/grid/planning-coming-soon.jpg’ saved [28127/28127]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/data-sec-coming-soon.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 33136 (32K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/data-sec-coming-soon.jpg’
+
+100%[======================================>] 33,136      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (16.8 MB/s) - ‘guide.dhcuration.org/images/grid/data-sec-coming-soon.jpg’ saved [33136/33136]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/repositories-coming-soon.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36724 (36K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/repositories-coming-soon.jpg’
+
+100%[======================================>] 36,724      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (14.3 MB/s) - ‘guide.dhcuration.org/images/grid/repositories-coming-soon.jpg’ saved [36724/36724]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/grid/fedora-coming-soon.jpg
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 37022 (36K) [image/jpeg]
+Saving to: ‘guide.dhcuration.org/images/grid/fedora-coming-soon.jpg’
+
+100%[======================================>] 37,022      --.-K/s   in 0.002s  
+
+2014-02-28 13:32:21 (16.7 MB/s) - ‘guide.dhcuration.org/images/grid/fedora-coming-soon.jpg’ saved [37022/37022]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/includes/jquery.cookie.js
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1503 (1.5K) [application/x-javascript]
+Saving to: ‘guide.dhcuration.org/includes/jquery.cookie.js’
+
+100%[======================================>] 1,503       --.-K/s   in 0s      
+
+2014-02-28 13:32:21 (5.78 MB/s) - ‘guide.dhcuration.org/includes/jquery.cookie.js’ saved [1503/1503]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/includes/jamieslib.js
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 18773 (18K) [application/x-javascript]
+Saving to: ‘guide.dhcuration.org/includes/jamieslib.js’
+
+100%[======================================>] 18,773      --.-K/s   in 0.001s  
+
+2014-02-28 13:32:21 (17.1 MB/s) - ‘guide.dhcuration.org/includes/jamieslib.js’ saved [18773/18773]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/del-20.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1801 (1.8K) [image/gif]
+Saving to: ‘guide.dhcuration.org/images/del-20.gif’
+
+100%[======================================>] 1,801       --.-K/s   in 0s      
+
+2014-02-28 13:32:21 (4.56 MB/s) - ‘guide.dhcuration.org/images/del-20.gif’ saved [1801/1801]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/intro/pdf.php
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/flanders-munoz-introduction.pdf [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/flanders-munoz-introduction.pdf
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/pdf.png
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 723 [image/png]
+Saving to: ‘guide.dhcuration.org/images/pdf.png’
+
+100%[======================================>] 723         --.-K/s   in 0s      
+
+2014-02-28 13:32:21 (69.0 MB/s) - ‘guide.dhcuration.org/images/pdf.png’ saved [723/723]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/submissions/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13710 (13K) [text/html]
+Saving to: ‘guide.dhcuration.org/submissions/index.html’
+
+100%[======================================>] 13,710      --.-K/s   in 0.004s  
+
+2014-02-28 13:32:21 (3.45 MB/s) - ‘guide.dhcuration.org/submissions/index.html’ saved [13710/13710]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/about
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://guide.dhcuration.org/about/ [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/about/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29352 (29K) [text/html]
+Saving to: ‘guide.dhcuration.org/about.1.html’
+
+100%[======================================>] 29,352      --.-K/s   in 0.005s  
+
+2014-02-28 13:32:21 (6.15 MB/s) - ‘guide.dhcuration.org/about.1.html’ saved [29352/29352]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/representation/pdf.php
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/sperberg-dubin-data_IDs.pdf [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/sperberg-dubin-data_IDs.pdf
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/research-practices/editors/
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/research-practices/classics/pdf.php
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/babeu-research_practices.pdf [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/babeu-research_practices.pdf
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/research-practices/privacy/
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/collections/pdf.php
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/fenlon-collections.pdf [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/fenlon-collections.pdf
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/collections/editors/
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/collections/standards/pdf.php
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/anderson-standards.pdf [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/anderson-standards.pdf
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/collections/privacy/
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/legal/editors/
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/legal/policy/pdf.php
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/levine-legal_policy.pdf [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/dev/july2012-launch/web/pdfs/levine-legal_policy.pdf
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/legal/privacy/
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/includes/submissions.html
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2014-02-28 13:32:21 ERROR 500: Internal Server Error.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/twitter.gif
+Connecting to guide.dhcuration.org|128.8.164.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138 [image/gif]
+Saving to: ‘guide.dhcuration.org/images/twitter.gif’
+
+100%[======================================>] 138         --.-K/s   in 0s      
+
+2014-02-28 13:32:21 (14.6 MB/s) - ‘guide.dhcuration.org/images/twitter.gif’ saved [138/138]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/images/del.gif
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 873 [image/gif]
+Saving to: ‘guide.dhcuration.org/images/del.gif’
+
+100%[======================================>] 873         --.-K/s   in 0s      
+
+2014-02-28 13:32:21 (83.3 MB/s) - ‘guide.dhcuration.org/images/del.gif’ saved [873/873]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/editors
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://guide.dhcuration.org/editors/ [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/editors/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 28205 (28K) [text/html]
+Saving to: ‘guide.dhcuration.org/editors.1.html’
+
+100%[======================================>] 28,205      --.-K/s   in 0.007s  
+
+2014-02-28 13:32:21 (4.07 MB/s) - ‘guide.dhcuration.org/editors.1.html’ saved [28205/28205]
+
+File ‘guide.dhcuration.org/editors/index.html’ already there; not retrieving.
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/legal/policy
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://guide.dhcuration.org/legal/policy/ [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/legal/policy/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/legal/policy.1.html’
+
+    [ <=>                                   ] 238,039     --.-K/s   in 0.02s   
+
+2014-02-28 13:32:21 (11.2 MB/s) - ‘guide.dhcuration.org/legal/policy.1.html’ saved [238039]
+
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/representation
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://guide.dhcuration.org/representation/ [following]
+--2014-02-28 13:32:21--  http://guide.dhcuration.org/representation/
+Reusing existing connection to guide.dhcuration.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘guide.dhcuration.org/representation.1.html’
+
+    [ <=>                                   ] 388,271     --.-K/s   in 0.02s   
+
+2014-02-28 13:32:21 (15.4 MB/s) - ‘guide.dhcuration.org/representation.1.html’ saved [388271]
+
+File ‘guide.dhcuration.org/contents/index.html’ already there; not retrieving.
+
+File ‘guide.dhcuration.org/faq/index.html’ already there; not retrieving.
+
+File ‘guide.dhcuration.org/about/index.html’ already there; not retrieving.
+
+File ‘guide.dhcuration.org/privacy/index.html’ already there; not retrieving.
+
+File ‘guide.dhcuration.org/submissions/index.html’ already there; not retrieving.
+
+FINISHED --2014-02-28 13:32:21--
+Total wall clock time: 2.5s
+Downloaded: 63 files, 3.4M in 0.2s (14.5 MB/s)
