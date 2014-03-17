@@ -14,7 +14,7 @@
 -   [How to cite](#howtocite)
 
 
-### [What is this?](#what)
+<h3 id="what">What is this?</h3>
 
 The DH Curation Guide is a compilation of articles that address aspects
 of data curation in the digital humanities. The goal of the DH Curation
@@ -32,7 +32,7 @@ and more.
 Want to know more about what data curation is? Head to the [FAQ about
 data curation](../faq/).
 
-### [Who wrote the articles?](#who)
+<h3 id="who">Who wrote the articles?</h3>
 
 An initial set of articles have been penned by contributing editors who
 are authorities in their fields. You can read more about them on the
@@ -43,7 +43,7 @@ Flanders](../editors/index.html#juliaflanders). This process ensures
 that the article presents accurate, up-to-date information and adheres
 to the Guide's purpose, tone, and style.
 
-### [How can I contribute?](#how)
+<h3 id="how">How can I contribute?</h3>
 
 **As a reader:** The community is strongly encouraged to add other
 resources (like journal articles, standards explanations, case studies,
@@ -64,12 +64,12 @@ starting point within the context of the Guide. A helpful contribution
 can be as short as a paragraph or two or as substantial as an entire
 article. All contributions are subject to a thorough editing process. If
 you would like to contribute an article in whole or in part, please
-[email the managing
-editors](mailto:hdc-bestpractices@support.lis.illinois.edu).
+<a href="mailto:dhcuration@gmail.com">email the managing
+editors</a>.
 
 * * * * *
 
-### [The DH Curation Guide is generously supported by:](#sponsors)
+<h3 id="sponsors">The DH Curation Guide is generously supported by:</h3>
 
 [![Institute of Museum and Library
 Services](../images/imls-logo.gif)](http://www.imls.gov/)
@@ -91,7 +91,7 @@ Urbana-Champaign](http://lis.illinois.edu)
 
 * * * * *
 
-### [Project history](#history)
+<h3 id="history">Project history</h3>
 
 The DH Curation Guide grew out of a needs analysis study of data
 curation at digital humanities centers conducted by the [Data Curation
@@ -118,7 +118,7 @@ challenges of working with humanities research data.
 
 * * * * *
 
-### [Project staff](#staff)
+<h3 id="staff">Project staff</h3>
 
 -   **Trevor Muñoz**, Editor, University of Maryland. [Editor bio
     »](../editors/index.html#trevormunoz)
@@ -145,7 +145,7 @@ challenges of working with humanities research data.
 
 * * * * *
 
-### [Technical notes](#technical)
+<h3 id="technical">Technical notes</h3>
 
 The DH Curation Guide is hosted by the Center for Informatics Research
 in Science and Scholarship (CIRSS) within the Graduate School of Library
@@ -153,7 +153,7 @@ and Information Science (GSLIS) at the University of Illinois at
 Urbana-Champaign. The Guide is currently a research project under active
 development. Things may not display or behave as intended. We would
 appreciate any feedback sent to
-[hdc-bestpractices@support.lis.illinois.edu](mailto:hdc-bestpractices@support.lis.illinois.edu).
+<a href="mailto:dhcuration@gmail.com">dhcuration [at] gmail.com</a>.
 
 **Article encoding:** Each full-length article is encoded in a custom
 XML schema. The XML is transformed via an XSLT stylesheet into uniform
@@ -171,7 +171,7 @@ meet the needs of this site and the project team's publishing workflow.
 
 * * * * *
 
-### [Licensing notes](#licensing)
+<h3 id="licensing">Licensing notes</h3>
 
 Each contribution to the DH Curation Guide is copyright by the editors
 and is published under a [Creative Commons Non-Commercial
@@ -180,8 +180,7 @@ with the goal of encouraging broad reuse that is in the educational and
 community-building spirit of the original publication. Below we describe
 the rationale underlying the licensing terms in greater detail; if you
 would like to reuse or remix this material and are not certain whether
-your proposed use is non-commercial, please [contact
-us](mailto:hdc-bestpractices@support.lis.illinois.edu). We are open to
+your proposed use is non-commercial, please <a href="mailto:dhcuration@gmail.com">contact us</a>. We are open to
 collaboration.
 
 The main aspects of our licensing policy are as follows:
@@ -204,7 +203,7 @@ advertising, as long as no fee is charged to readers for access to the
 material. For these uses, you do not need to contact us to obtain
 further permission.
 
-#### [How to cite](#howtocite)
+<h3 id="howtocite">How to cite</h3>
 
 Contributors to the DH Curation Guide have contributed their time and
 expertise to the development of this resource. For any form of reuse, we
@@ -217,11 +216,10 @@ the DH Curation Guide, and the URL for the chapter, as follows:
 Each article includes a citation at the bottom of the page.
 
 * * * * *
-
-### [Contact us](#contact)
+<h3 id="contact">Contact us</h3>
 
 If you have any comments or questions, please email us at
-[hdc-bestpractices@support.lis.illinois.edu](mailto:hdc-bestpractices@support.lis.illinois.edu).
+<a href="mailto:dhcuration@gmail.com">dhcuration@gmail.com</a>.
 
 
  [![Creative Commons
